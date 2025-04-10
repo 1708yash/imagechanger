@@ -1,4 +1,4 @@
-# Professional Image Converter Application
+# Image Converter Application
 
 This is a Python-based graphical image editor that lets users convert and enhance images using a variety of artistic effects. The application features a modern, professional user interface with standard window controls (minimize, maximize, close) and dynamic, resizable layouts. It is designed to deliver a seamless image editing experience with real-time effect adjustments.
 
