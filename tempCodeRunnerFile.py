@@ -1,0 +1,1 @@
+s.handle_rect.y = s.rect.y - 5
